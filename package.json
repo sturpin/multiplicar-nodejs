@@ -1,0 +1,26 @@
+{
+  "name": "node-basics",
+  "version": "0.0.1",
+  "description": "Simple tabla de multiplicar con creación de fichero en texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sturpin/node-basics.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Sergio Turpín",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sturpin/node-basics/issues"
+  },
+  "homepage": "https://github.com/sturpin/node-basics#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1"
+  }
+}
