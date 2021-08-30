@@ -1,5 +1,5 @@
 # Información :information_source:
-Aplicación básica de la tabla de multiplicar para consola.
+Aplicación básica de consola que muestra la tabla de multiplicar.
 
 ```
 Opciones:
@@ -11,8 +11,8 @@ Opciones:
 ```
 
 # Características :package:
-- Crea un fichero independiente con la tabla especificada.
-- Permite especificar hasta qué número queremos multiplicar.
+- Crea un _fichero de texto_ independiente con la tabla especificada.
+- Permite definir hasta qué número queremos multiplicar.
 
-# Herramientas :hammer_and_wrench:
+# Desarrollado :hammer_and_wrench:
 - NodeJS 14.x

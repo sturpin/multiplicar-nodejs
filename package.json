@@ -1,5 +1,5 @@
 {
-  "name": "node-basics",
+  "name": "multiplicar-nodejs",
   "version": "0.0.1",
   "description": "Simple tabla de multiplicar con creación de fichero en texto",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sturpin/node-basics.git"
+    "url": "git+https://github.com/sturpin/multiplicar-nodejs.git"
   },
   "keywords": [
     "nodejs"
@@ -16,9 +16,9 @@
   "author": "Sergio Turpín",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sturpin/node-basics/issues"
+    "url": "https://github.com/sturpin/multiplicar-nodejs/issues"
   },
-  "homepage": "https://github.com/sturpin/node-basics#readme",
+  "homepage": "https://github.com/sturpin/multiplicar-nodejs#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "yargs": "^17.1.1"
